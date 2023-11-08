@@ -1,0 +1,103 @@
+id,consulta,intencion
+1, ¿Cuál es la fecha límite para el proyecto Final?, fechas_entrega
+2, ¿Cuáles son los temas a tratar en la clase de esta semana?, temario
+3, ¿Dónde puedo encontrar material de estudio adicional?, material_estudio
+4, ¿Cuál es el horario de consulta del profesor de Programación Avanzada?, horarios
+5, ¿Cómo implemento un árbol AVL?, ejemplos_codigo
+6, ¿Hay alguna práctica programada para el próximo fin de semana?, horarios
+7, ¿Dónde puedo encontrar ejemplos de código para algoritmos de ordenamiento eficientes?, ejemplos_codigo
+8, ¿Cuál es el cronograma de exámenes para este semestre?, cronograma
+10, ¿Cuándo es la entrega de la implementación de árboles rojinegros?, fechas_entrega
+11, ¿Dónde puedo encontrar información sobre la solución del ejercicio de backtracking?, material_estudio
+12, ¿Hay algún repositorio de código disponible para la práctica de pilas y colas en Python?, repositorio
+13, ¿Cómo puedo hacer pruebas unitarias para mi implementación de árboles?, material_estudio
+14, ¿Cuál es la complejidad temporal esperada para el algoritmo de Dijkstra?, material_estudio
+15, ¿Cuándo es la fecha límite para la presentación del proyecto de final de curso?, fechas_entrega
+16, ¿Cómo puedo optimizar mi algoritmo de búsqueda en anchura para grafos dirigidos?, material_estudio
+17, ¿Hay alguna sesión de revisión programada antes del examen final de la materia?, horarios
+18, ¿Dónde puedo encontrar ejemplos de aplicaciones de árboles de decisión en el mundo real?, ejemplos_codigo
+19, ¿Dónde puedo encontrar ejemplos de aplicación del teorema maestro en la programación de algoritmos recursivos?, ejemplos_codigo
+20, ¿Cómo puedo manejar eficazmente la gestión de memoria en mi programa de estructuras de datos?, material_estudio
+21, ¿Dónde puedo encontrar ejercicios prácticos para repasar los conceptos de programación dinámica?, material_estudio
+22, ¿Dónde puedo encontrar recursos adicionales para el proyecto de árboles en python?, material_estudio
+23, ¿Dónde puedo encontrar ejemplos de aplicaciones de árboles AVL en el mundo real?, ejemplos_codigo
+24, ¿Cuál es la fecha límite para la presentación del proyecto de estructuras de datos?, fechas_entrega
+25, ¿Dónde puedo encontrar el horario de las clases de repaso para el examen final?, horarios
+26, ¿Cuál es el horario de atención de la tutoría para el proyecto final?, horarios
+27, ¿Cuáles son los temas específicos que se abordarán en el temario del próximo mes?, temario
+28, ¿Dónde puedo encontrar el temario actualizado con los últimos cambios realizados?, temario
+29, ¿Cuál es el cronograma de entregas para las tareas restantes del semestre?, cronograma
+30, ¿Dónde puedo obtener una copia del cronograma de evaluaciones para el próximo año académico?, cronograma
+31, ¿Dónde puedo encontrar el repositorio actualizado con los ejemplos de código más recientes?, repositorio
+32, ¿Dónde puedo encontrar el repositorio con ejemplos de código actualizados para la preparación del examen parcial?, repositorio
+33, ¿Cuál es la fecha límite para la presentación del proyecto de fin de curso?, fechas_entrega
+34, ¿Cuándo vence la entrega de la documentación final para el proyecto de programación paralela?, fechas_entrega
+35, ¿Dónde puedo encontrar información sobre las fechas de entrega?, fechas_entrega
+36, ¿Dónde puedo encontrar el horario actualizado de las sesiones de tutoría?, horarios
+37, ¿Dónde puedo encontrar información sobre los temas específicos que se cubrirán en el temario del próximo mes?, temario
+38, ¿Cuáles son los temas adicionales que se han agregado al temario del curso de programacion avanzada?, temario
+39, ¿Cuál es el enlace al temario detallado del curso de programacion avanzada de este año?, temario
+40, ¿Cuál es el cronograma de actividades para el próximo mes de programacion avanzada?, cronograma
+41, ¿Dónde puedo encontrar el cronograma actualizado de evaluaciones de programacion avanzada?, cronograma
+42, ¿Cuál es el horario de las sesiones de práctica?, horarios
+43, ¿Cuáles son los temas específicos que se discutirán en el temario?, temario
+44, ¿Dónde puedo encontrar el temario detallado?, temario
+45, ¿Dónde puedo encontrar el cronograma de exámenes?, cronograma
+46, ¿Dónde puedo encontrar el repositorio de ejemplos de código recomendados por el departamento de programación avanzada?, repositorio
+47, ¿Cómo puedo acceder al repositorio de proyectos de investigación relacionados con programación avanzada desarrollados por profesores del departamento?, repositorio
+48, ¿Dónde puedo encontrar ejemplos de proyectos innovadores realizados por estudiantes de programación avanzada que se han implementado en la industria?, repositorio
+49, ¿Cuál es la fecha límite para la entrega del Trabajo Practico?, fechas_entrega
+50, ¿Dónde puedo encontrar el horario de las sesiones de tutoría para el repaso de programación avanzada?, horarios
+51, ¿Cuál es el horario de las sesiones de práctica de la próxima semana?, horarios
+52, ¿Dónde puedo obtener una copia del cronograma de prácticas?, cronograma
+53, ¿Cuál es la fecha límite para la entrega del TP?, fechas_entrega
+54, ¿Dónde puedo encontrar el cronograma de exámenes?, cronograma
+55, ¿Dónde puedo acceder al repositorio de proyectos?, repositorio
+56, ¿Cuál es la fecha límite para la entrega tp de programacion avanzada?, fechas_entrega
+57, ¿Dónde puedo encontrar el horario de las clases de teoria?, horarios
+58, ¿Cuál es la fecha límite del tp?, fechas_entrega
+59, ¿Dónde puedo encontrar el horario tutoría para tp?, horarios
+60, ¿Cuál es el horario práctica de esta semana?, horarios
+61, ¿Cuáles son los temas específicos que se trabajaran esta semana?, temario
+62, ¿Dónde puedo obtener una copia del cronograma de practicas de PA (Programación avanzada)?, cronograma
+63, ¿Dónde puedo encontrar el repositorio actualizado con los ejemplos de código de PA?, repositorio
+64, ¿Cuál es la fecha límite para la entrega tp 2?, fechas_entrega
+65, ¿Dónde puedo encontrar el horario de las sesiones de laboratorio para la próxima sesión de procesamiento de señales con redes neuronales?, horarios
+66, ¿Cuál es el horario de las sesiones de práctica para la implementación de algoritmos de control en el próximo mes?, horarios
+67, ¿Cuál es la fecha límite para la entrega del proyecto?, fechas_entrega
+68, ¿Dónde puedo encontrar el horario de las practicas de este mes?, horarios
+69, ¿Cuál es el horario de la clase práctica de esta semana?, horarios
+70, ¿Cuáles son los temas específicos que se abordarán en el temario de la proxima semana?, temario
+71, ¿Dónde puedo encontrar el cronograma de exámenes?, cronograma
+72, ¿Cuál es la fecha límite para la entrega trabajo practico numero 3?, fechas_entrega
+73, ¿Dónde puedo encontrar el horario de las clases de consulta?, horarios
+74, ¿Cuál es la fecha límite para la entrega del trabajo final de PA?, fechas_entrega
+75, ¿Dónde puedo encontrar el horario de la consulta para el repaso de conceptos de pa?, horarios
+76, ¿Cuáles son los temas específicos que se tratarán en este cuatrimestre?, temario
+77, ¿Dónde puedo encontrar el temario actualizado con las adiciones de este cuatrimestre?, temario
+78, ¿Cuál es el cronograma de PA de este cuatrimestre?, cronograma
+79, ¿Dónde puedo obtener una copia del cronograma de PA anual?, cronograma
+80, ¿Dónde puedo encontrar el repositorio de PA?, repositorio
+81, ¿Cual es el repositorio de programacion avanzada?, repositorio
+82, ¿Cuál es el enlace al repositorio?, repositorio
+83, ¿Cuál es la fecha límite los tp de PA?, fechas_entrega
+84, necesito el elance al repositorio de PA, horarios
+85, quiero los horarios completos de este cuatrimestre, horarios
+86, quiero que me pases el temario de este cuatrimestre, temario
+87, necesito el temario, temario
+88, ¿tenes el cronograma?, cronograma
+89, quiero el cronograma, cronograma
+90, ¿tenes el enlace al repositorio de PA?, repositorio
+91, necesito acceder al repositorio de PA, repositorio
+92, necesito revisar horarios completos de este cuatrimestre, horarios
+93, quiero el temario actualizado, temario
+94, mostrame el cronograma, cronograma
+95, ¿tenes ejemplos de código para árboles binarios?, ejemplos_codigo
+96, quiero ejemplos de implementaciones de algoritmos de grafos, ejemplos_codigo
+97, quiero ver la fecha de vencimiento de la entrega del trabajo practico de PA, fechas_entrega
+98, quiero los horarios de tutoría de PA, horarios
+99, necesito el horario de práctica, horarios
+100, quiero los temas específicos que se veran el próximo mes en PA, temario
+101, Consultar el cronograma de exámenes para el próximo ciclo académico en el curso de PA, cronograma
+102, necesito material adicional de estudio, material_estudio
+103, quiero el enlace al material de estudio recomendado, material_estudio
